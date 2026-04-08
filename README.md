@@ -23,6 +23,8 @@ O funcionamento segue uma lógica de baixa latência para garantir uma resposta 
 
   - Transmissão: Ao mover um slider na App (Ex: Garra), a aplicação envia um pacote de dados (Ex: G120, indicando que o servo da garra deve ir para a posição 120).
 
-  - Execução: O ESP32 descodifica o pacote e ajusta o ângulo do servo correspondente instantaneamente. 
+  - Execução: O ESP32 descodifica o pacote e ajusta o ângulo do servo correspondente instantaneamente.
+
+fsilva-gesi.github.io/ESP32RoboticArmBTController/flash.html
 
 
