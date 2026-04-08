@@ -26,7 +26,6 @@ O funcionamento segue uma lógica de baixa latência para garantir uma resposta 
   - Execução: O ESP32 descodifica o pacote e ajusta o ângulo do servo correspondente instantaneamente.
 
 
-[Instalar] (https://fsilva-gesi.github.io/ESP32RoboticArmBTController/flash.html)
-fsilva-gesi.github.io/ESP32RoboticArmBTController/flash.html
+[Instalar](https://fsilva-gesi.github.io/ESP32RoboticArmBTController/flash.html)
 
 
